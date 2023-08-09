@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c634247a76d1a844adf56b366da56d9, type: 3}
+  m_Name: Heavy Gravity Beam
+  m_EditorClassIdentifier: 
+  skillIcon: {fileID: 21300000, guid: fbc2f60df30ad634cb3c35bd0bf688e6, type: 3}
+  skill: {fileID: 682153894380366312, guid: 9497c24025256df49a537d42e31752d3, type: 3}
+  description: Strong Gravity Beam that manipulates the movement of the enemies
+  cooldown: 0
+  ignorePlayerPos: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ce561d41b8bf142b7c6bebd1e960d7, type: 3}
+  m_Name: Computo
+  m_EditorClassIdentifier: 
+  rank: 1
+  image: {fileID: 21300000, guid: fca70f8913e84bb4db7b5b98c406cf39, type: 3}
+  characterClass: {fileID: 11400000, guid: a4cb4c5c9107a9e468ab1617041a6cd4, type: 2}
+  skill: {fileID: 11400000, guid: e52896c3c094813429370c67eb1673a5, type: 2}
+  description: 
+  passiveSkills: []

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ce561d41b8bf142b7c6bebd1e960d7, type: 3}
+  m_Name: Sparks
+  m_EditorClassIdentifier: 
+  rank: 2
+  image: {fileID: 21300000, guid: d741df78107681e45a40f6b329f8de0f, type: 3}
+  characterClass: {fileID: 11400000, guid: a4cb4c5c9107a9e468ab1617041a6cd4, type: 2}
+  skill: {fileID: 11400000, guid: 2b1f62f4efa070f468f988c526551711, type: 2}
+  description: 
+  passiveSkills: []
